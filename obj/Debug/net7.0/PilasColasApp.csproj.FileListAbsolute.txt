@@ -1,0 +1,15 @@
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\bin\Debug\net7.0\PilasColasApp.exe
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\bin\Debug\net7.0\PilasColasApp.deps.json
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\bin\Debug\net7.0\PilasColasApp.runtimeconfig.json
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\bin\Debug\net7.0\PilasColasApp.dll
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\bin\Debug\net7.0\PilasColasApp.pdb
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\PilasColasApp.csproj.AssemblyReference.cache
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\PilasColasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\PilasColasApp.AssemblyInfoInputs.cache
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\PilasColasApp.AssemblyInfo.cs
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\PilasColasApp.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\PilasColasApp.dll
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\refint\PilasColasApp.dll
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\PilasColasApp.pdb
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\PilasColasApp.genruntimeconfig.cache
+C:\Users\alumno\Downloads\240430 - Cuenta\PilasColasApp\obj\Debug\net7.0\ref\PilasColasApp.dll

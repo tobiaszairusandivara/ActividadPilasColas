@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+jr7AQliIo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tobias Zair\\Desktop\\2DO CUATRIMESTRE\\PRACTICOS HECHOS\\Programacion 2\\Practico\\240430 - Cuenta\\240430 - Cuenta\\PilasColasApp\\PilasColasApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tobias Zair\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Tobias Zair\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Tobias Zair\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Tobias Zair\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
